@@ -1,0 +1,25 @@
+.config/
+sample_data/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# === ADD ALL YOUR PNG FILES ===
+%cd /content/Adidas-US-Sales-Dataset-Analysis
+!git add *.png
+
+# === ADD .gitignore ===
+!git add .gitignore
+
+# === CHECK STATUS ===
+!git status
+
+# === COMMIT ===
+!git commit -m "Added all project charts and .gitignore"
+
+# === PUSH ===
+!git push origin main
