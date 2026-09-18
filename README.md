@@ -1,4 +1,4 @@
-#  Adidas US Sales Data Analysis b
+#  Adidas US Sales Data Analysis 
 
 
 Imagine walking into an Adidas store and seeing empty shelves for the hottest shoes, while another store across the country is drowning in unsold sandals. That is a multi-million dollar inventory headache, and this project was built to fix it. We took 9,648 sales receipts from Adidas USA and asked one simple question: based on the product, price, location, and time of year, is this sale going to be a big win (high sales) or a big flop (low sales)? To answer that, we drew a lot of pictures first to understand the data, and we found some cool clues. Men’s Street Footwear is the absolute king with over 593,000 units sold, and the West region brings in over 200 million dollars because sunny California loves its sneakers. We also discovered that in-store shopping still rules, making up half of all transactions, and basic economics holds true: cheaper shoes sell more, so when prices go up, units sold go down.
